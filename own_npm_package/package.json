@@ -1,0 +1,12 @@
+{
+  "name": "own_npm_package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
