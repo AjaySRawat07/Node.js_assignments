@@ -1,7 +1,7 @@
 // a function to find a number in a shorted array
 
 const readline = require("node:readline");
-const binarySearch = require("./binary");
+const binarySearch = require("./index");
 
 const rl =  readline.createInterface({
     input : process.stdin,
