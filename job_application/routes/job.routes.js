@@ -1,5 +1,7 @@
 const express = require("express");
 
+// creasting express for instance of our server
+
 const {jobList, jobCreate , jobDelete , jobEdit}  = require("../controller/job.controller");
 
 const router = express.Router();
